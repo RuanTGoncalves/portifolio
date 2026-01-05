@@ -1,6 +1,6 @@
 ```
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-![image] (https://portifolio-six-henna-17.vercel.app/index.html)
+(https://portifolio-six-henna-17.vercel.app/index.html)
 ## Ferramentas utilizadas:
 
 * HTML
